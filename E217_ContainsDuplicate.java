@@ -13,7 +13,7 @@ public class E217_ContainsDuplicate {
         // Define an array of numbers
         int[] nums = {1, 2, 3, 1};
 
-        // Call the containsDuplicate method from the solutionE217 class
+        // Call the containsDuplicate method from the SolutionE217 class
         boolean result = solutionE217.containsDuplicate(nums);
         // Print the result
         System.out.println("Array contains duplicates: " + result);
